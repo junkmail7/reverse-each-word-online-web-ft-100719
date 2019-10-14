@@ -1,3 +1,4 @@
 def reverse_each_word(string)
-  return string.split
+  nuguy=string.split
+  return nuguy.reverse
 end
