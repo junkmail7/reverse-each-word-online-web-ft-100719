@@ -3,5 +3,5 @@ nuguy=string.split
 nuguy.each do |word|
   word=word.reverse!
 end
-return nuguy.join
+return nuguy.join(" ")
 end
