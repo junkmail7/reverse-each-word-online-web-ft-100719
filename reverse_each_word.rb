@@ -1,6 +1,7 @@
 def reverse_each_word(string)
-  nuguy=[]
-  reversin.each do |letter|
+nuguy=string.split
+nuguy.each do |letter|
+  
   
   
   
